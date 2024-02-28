@@ -1,0 +1,170 @@
+    1  git init
+    2  touch README.txt
+    3  git add .
+    4  git commit -m "This is my first bash use"
+    5  ls
+    6  rm README.txt
+    7  touch New_README.txt
+    8  git add.
+    9  git add .
+   10  git commit -m "New Readme created. Old one deleted"
+   11  log
+   12  git log
+   13  git checkout 17e574b78e4ec486ad81681933a378ba33e0ad8e
+   14  git checkout master
+   15  git remote add origin https://github.com/danieldeacon/Umuzi_DevOps_Bootcamp_CodeFiles.git
+   16  git push -u origin master
+   17  [200~git config --global http.sslbackend schannel
+   18  bash: $'\E[200~git': command not found
+   19  git config --global http.sslbackend schannel
+   20  git push -u origin master
+   21  ls
+   22  ls /
+   23  man ls
+   24  man
+   25  manual
+   26  git man
+   27  git init
+   28  "C:\Users\CT303709\Documents\Umuzi DevOps Bootcamp\Umuzi_DevOps_Bootcamp_CodeFiles\.git"
+   29  git init
+   30  git init Umuzi_DevOps_Bootcamp_CodeFiles
+   31  git init [200~"C:\Users\CT303709\Documents\Umuzi DevOps Bootcamp\Umuzi_DevOps_Bootcamp_CodeFiles\.git"~
+   32  git init "C:\Users\CT303709\Documents\Umuzi DevOps Bootcamp\Umuzi_DevOps_Bootcamp_CodeFiles\.git"
+   33  git init "C:\Users\CT303709\Documents\Umuzi DevOps Bootcamp\Umuzi_DevOps_Bootcamp_CodeFiles"
+   34  newdir git-basic-exercises
+   35  gh repo clone Umuzi-org/Daniel-Deacon-219-level-1-programming-katas-python
+   36  git remote add origin https://github.com/Umuzi-org/Daniel-Deacon-219-level-1-programming-katas-python.git
+   37  ls
+   38  git push -u master
+   39  checkout master
+   40  git checkout master
+   41  git commit -m "added origin - Umuzi repo"
+   42  ls
+   43  cd C:\Users\CT303709\Documents\Umuzi DevOps Bootcamp\Level 1 Coding Challenges
+   44  git clone https://github.com/Umuzi-org/Daniel-Deacon-219-level-1-programming-katas-python.git C:\Users\CT303709\Documents\Umuzi DevOps Bootcamp\Level 1 Coding Challenges
+   45  git clone https://github.com/Umuzi-org/Daniel-Deacon-219-level-1-programming-katas-python.git local C:\Users\CT303709\Documents\Umuzi DevOps Bootcamp\Level 1 Coding Challenges
+   46  git clone https://github.com/Umuzi-org/Daniel-Deacon-219-level-1-programming-katas-python.git local Users\CT303709\Documents\Umuzi DevOps Bootcamp\Level 1 Coding Challenges
+   47  cd documents
+   48  cd Umuzi DevOps Bootcamp
+   49  ..
+   50  cd..
+   51  cd..cd devops
+   52  cd devops
+   53  cd documents
+   54  cd level 1
+   55  cd umuzi_devops_bootcamp
+   56  echo $PATH
+   57  git clone https://github.com/Umuzi-org/Daniel-Deacon-219-level-1-programming-katas-python.git
+   58  cp Level 1 Coding Challenges
+   59  cp "C:\Users\CT303709\Documents\Umuzi DevOps Bootcamp\Level 1 Coding Challenges"
+   60  cp --help
+   61  git add task1.py task2.py task3.py task4.py task5.py task6.py task7.py
+   62  ls -a
+   63  [200~git add task1.py task2.py task3.py task4.py task5.py task6.py task7.py
+   64  git add task1.py task2.py task3.py task4.py task5.py task6.py task7.py
+   65  "C:\Users\CT303709\Documents\Daniel-Deacon-219-level-1-programming-katas-python\.git"
+   66  git init "C:\Users\CT303709\Documents\Daniel-Deacon-219-level-1-programming-katas-python\.git"
+   67  git add task1.py
+   68  git add NEW.txt
+   69  git touch NEW.txt
+   70  touch NEW.txt
+   71  "C:\Users\CT303709\Documents\Umuzi DevOps Bootcamp\Level 1 Coding Challenges"
+   72  cd "C:\Users\CT303709\Documents\Umuzi DevOps Bootcamp\Level 1 Coding Challenges"
+   73  git clone https://github.com/Umuzi-org/Daniel-Deacon-219-level-1-programming-katas-python.git
+   74  git add task1.py
+   75  cp task1.py
+   76  git init ^[[200~https://github.com/Umuzi-org/Daniel-Deacon-219-level-1-programming-katas-python.git~
+   77  copy task1.py
+   78  cp task1.py
+   79  ls -a
+   80  add task1.py
+   81  git add task1.py
+   82  git copy task1
+   83  clone task1.py
+   84  git clone task1.py
+   85  git commit -m "Added task1 - task7"
+   86  git add .
+   87  git add task1.py
+   88  cd "C:\Users\CT303709\Documents\Umuzi DevOps Bootcamp\Level 1 Coding Challenges\Daniel-Deacon-219-level-1-programming-katas-python"
+   89  add task1.py
+   90  git add task1.py
+   91  git add task2.py task3.py task4.py task5.py task6.py task7.py
+   92  git status
+   93  git commit -m "Added Tasks 1 - 7 of Project: Level 1 Coding Challenges"
+   94  git push origin main
+   95  cd "C:\Users\CT303709\Documents\Umuzi DevOps Bootcamp\Level 1 Coding Challenges\Daniel-Deacon-219-level-1-programming-katas-python"
+   96  git checkout -b attempt_1
+   97  git add.
+   98  git add .
+   99  git add task1.py
+  100  git add task2.py task3.py task4.py task5.py task6.py task7.py
+  101  git commit -m "Moved attempts to new branch"
+  102  git push origin attempt_1
+  103  cd "C:\Users\CT303709\Documents\Umuzi DevOps Bootcamp\Level 1 Coding Challenges\Daniel-Deacon-219-level-1-programming-katas-python"
+  104  checkout -b task1.py
+  105  git checkout -b task1
+  106  git add task1.py
+  107  git commit -m "Task 1
+  108  If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.
+  109  Write a function multiples, it should take in a single integer parameter. The function should print out the sum of the multiples as described above."
+  110  git push origin task1
+  111  rm -ri task2.py task3.py task4.py task5.py task6.py task7.py
+  112  git log
+  113  git commit -m "Task 1
+  114  If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.
+  115  Write a function multiples, it should take in a single integer parameter. The function should print out the sum of the multiples as described above."
+  116  git push origin task1
+  117  git checkout main
+  118  git checkout task2
+  119  git checkout -b task2
+  120  git add task2.py
+  121  git diff
+  122  cd "C:\Users\CT303709\Documents\Umuzi DevOps Bootcamp\Level 1 Coding Challenges\Daniel-Deacon-219-level-1-programming-katas-python"
+  123  git log
+  124  git checkout task2
+  125  git rm -r task3.py task4.py task5.py task6.py task7.py
+  126  git checkout task2
+  127  git commit -m "Task 2
+  128  Write a function called hasThree or has_three that takes 2 positive integers as input.
+  129  If either of the numbers is 3 and the sum of the numbers contains a 3 then return a boolean true. Otherwise, return false.
+  130  Make sure you know what a boolean is, if you return a string then that would be incorrect.
+  131  Remember to choose the best function name for the language you are working in."
+  132  git chekout task2
+  133  git checkout task2
+  134  git log
+  135  cd "C:\Users\CT303709\Documents\Umuzi DevOps Bootcamp\Level 1 Coding Challenges\Daniel-Deacon-219-level-1-programming-katas-python"
+  136  git push origin task2
+  137  git add task2.py
+  138  cd
+  139  cd git-basic-exercises
+  140  ls -a
+  141  git init
+  142  ls -a
+  143  git status
+  144  touch README.md
+  145  git add .
+  146  git status
+  147  git commit -m "initial commit"
+  148  git log
+  149  nano README.md
+  150  cat README.md
+  151  git status
+  152  git add .
+  153  git status
+  154  git commit -m "second commit"
+  155  nano README.md
+  156  git status
+  157  git add .
+  158  git commit -m "third commit"
+  159  git log
+  160  git checkout -b milkshake-flavours
+  161  nano milkshakes.md
+  162  git status
+  163  git add .
+  164  git commit -m "added initial flavours"
+  165  git log
+  166  git checkout main
+  167  git checkout master
+  168  git checkout -b history
+  169  git log
+  170  history > history.txt
